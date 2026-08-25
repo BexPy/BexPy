@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm Rebeca, a cybersecurity graduate, hands-on security learner, and aspiring **Purple Teamer**.
 
@@ -92,7 +92,7 @@ PowerShell • Python Foundations • Security Automation Concepts
 
 ## 🧠 A Little More About Me
 
-Outside of cybersecurity, I enjoy **research, astronomy, cryptography, psychology, philosophy, programming, and exploring big-picture questions, as well as gardening, art, and creating cozy, functional living spaces.**
+Outside of cybersecurity, I enjoy **research, astronomy, psychology, philosophy, programming, and exploring big-picture questions, as well as gardening, art, and creating cozy, functional living spaces.**
 
 I'm especially drawn to the kind of research rabbit holes that begin with one question and lead to five more. I enjoy breaking complicated ideas into smaller pieces, understanding how they connect, and working toward the underlying explanation.
 
