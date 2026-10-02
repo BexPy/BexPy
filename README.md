@@ -2,10 +2,8 @@
 
 # Hi, I'm Rebeca 👋
 
-### Hello, Welcome, and Thank You for stopping by :)
+### Hello, welcome, and thank you for stopping by :)
 
-**🎯 SOC / Security Operations** &nbsp;•&nbsp; **🌙 Open to Night & Overnight Shifts** &nbsp;•&nbsp; **💻 Remote Preferred**  
-**📍 Baytown / Houston, TX** &nbsp;•&nbsp; **🟢 Open to Opportunities**
 
 </div>
 
@@ -13,25 +11,25 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm Rebeca, a cybersecurity graduate, hands-on security learner, and aspiring **Purple Teamer**.
+I'm Rebeca, a cybersecurity graduate and hands-on technical learner with a strong interest in defensive security, digital forensics, and incident response.
 
-I'm currently building my defensive foundation through SOC-focused projects involving alert triage, investigation, detection engineering, log analysis, and purple-team validation. Long term, I want to continue developing both the defensive and offensive sides of cybersecurity so I can better understand not only **how attacks happen**, but how to **detect, investigate, validate, and improve defenses against them**.
+Much of my earlier hands-on work has focused on SOC operations, including alert triage, log analysis, investigation, detection engineering, and purple-team validation. I plan to continue building practical projects over time so this GitHub reflects my continued technical growth and experimentation.
 
-I'm also increasingly interested in **digital forensics and incident response** — especially the process of reconstructing what happened from evidence and building a defensible timeline.
+I'm especially interested in the investigative side of security — using evidence to reconstruct events, establish timelines, understand what happened, and determine how the pieces connect.
 
-I'm naturally investigative and curious. When something catches my attention, I tend to follow the evidence until I understand how the pieces connect — the **who, what, when, where, why, and underlying cause**.
+I'm naturally investigative and curious. When something catches my attention, I tend to follow the evidence until I understand the who, what, when, where, why, and underlying cause.
 
-Cybersecurity gives that curiosity structure: evidence, scope, playbooks, escalation boundaries, and a defined objective.
+Cybersecurity gives that curiosity structure: evidence, scope, documentation, playbooks, escalation boundaries, and a defined objective.
 
 **🎓 AAS in Cybersecurity** &nbsp;|&nbsp; **CompTIA Security+** &nbsp;|&nbsp; **CompTIA Network+**
 
 ---
 
-## 🟣 Featured Project — VioletOps
+## 🟣 Technical Projects
 
-### Enterprise-Style SOC & Purple-Team Homelab
+### VioletOps — Enterprise-Style SOC & Purple-Team Homelab
 
-[VioletOps](https://github.com/BexPy/VioletOps) is my hands-on cybersecurity portfolio built to move beyond studying security concepts and practice how they connect inside an operational environment.
+[VioletOps](https://github.com/BexPy/VioletOps) is a hands-on cybersecurity lab project I built to move beyond studying security concepts and practice how they connect inside an operational environment.
 
 I designed and documented a dual-host Microsoft Hyper-V lab with **OPNsense, Windows Server Active Directory, Windows 11, Kali Linux, Splunk Enterprise, Wazuh, Sysmon, Windows Firewall telemetry, and PowerShell**.
 
@@ -48,7 +46,7 @@ Through VioletOps, I practiced:
 
 ---
 
-## 🔎 My Analyst Mindset
+## 🔎 How I Approach Technical Work
 
 ### Investigate with context
 
@@ -58,13 +56,13 @@ I practice treating an alert's severity as **one signal, not the entire conclusi
 
 Documentation comes naturally to me. I tend to build timelines, checklists, and structured notes while working through a problem so the evidence trail can be understood, reproduced, and continued by someone else.
 
-### Know when to escalate
+### Work within scope
 
-An analyst doesn't need to completely solve an incident before escalating it. I focus on investigating within scope, gathering enough evidence to make a defensible assessment, documenting what I found, and handing the investigation off when higher-tier actions or authority are required.
+I don't assume every problem needs to be solved alone or all at once. I focus on understanding the scope, gathering enough evidence to make a defensible assessment, documenting what I've found, and recognizing when a problem requires additional knowledge, tools, authority, or another perspective.
 
 ---
 
-## 🛠️ Technical Focus
+## 🛠️ Tools & Technologies
 
 **SIEM & Monitoring**  
 Splunk Enterprise • SPL • Wazuh • Sysmon • Windows Event Logs • Windows Defender Firewall Logs • OPNsense Syslog
@@ -80,16 +78,6 @@ PowerShell • Python Foundations • Security Automation Concepts
 
 ---
 
-## 🎯 Roles I'm Targeting
-
-- **Tier 1 SOC Analyst / SOC Analyst I**
-- **Security Operations Analyst**
-- **Junior Cybersecurity Analyst — SOC Focused**
-
-**Long-term direction:** Purple Team • Detection & Response • Threat Hunting • Incident Investigation
-
----
-
 ## 🧠 A Little More About Me
 
 Outside of cybersecurity, I enjoy **research, astronomy, psychology, philosophy, programming, and exploring big-picture questions, as well as gardening, art, and creating cozy, functional living spaces.**
@@ -100,21 +88,31 @@ Programming scratches that same itch: start with an outcome, break the problem i
 
 ---
 
-## 🚧 What's Next?
+## 🧪 Current Experiments & Learning
 
-VioletOps is published, but my lab — and my learning — isn't finished.
+VioletOps may be complete, but I don't consider my technical learning finished.
 
-I'm continuing to build toward:
+I enjoy building things simply because I'm curious about how they work. Some projects may grow from cybersecurity, while others may take me into networking, digital forensics, programming, automation, robotics, or another technical rabbit hole entirely.
 
-- **physical firewall / access point integration and home-network telemetry**
-- deeper Tier 2-style investigations and incident analysis
-- threat hunting and detection improvement
-- automated adversary simulation and detection validation
-- expanded Python, SOAR, and security automation
-- digital forensics and incident response
-- continued offensive + defensive Purple Team development
+A few areas I want to explore next include:
 
-**Stay tuned — this portfolio will continue growing as I learn, build, break, investigate, improve, and validate.**
+* **home-network visibility and telemetry** — integrating physical networking equipment and learning what I can observe, collect, and understand about my own network
+* **digital forensics** — experimenting with disk, memory, filesystem, and operating-system artifacts to see how activity can be reconstructed from evidence
+* **controlled offensive and defensive security experiments** — generating activity inside isolated lab environments and studying both the attack behavior and the evidence it leaves behind
+* **Python and programming projects** — building small tools, automations, experiments, and anything else that gives me an excuse to write code and press **Run**
+* **hardware, robotics, and embedded experimentation** — exploring the intersection between code and physical systems as opportunities come up
+
+Not every project here will follow the same path or belong to the same technical discipline. That's intentional.
+
+This GitHub is becoming a record of the things I’m curious about, the things I experiment with, the questions I follow, the problems I work through, and what I learn along the way.
+
+My projects aren't limited to a particular technical discipline or built around a specific career target. I use this space to document hands-on learning, explore ideas that interest me, and experiment with technologies I want to understand better.
+
+
+**Projects documented here are independent personal work using systems I own or control, intentionally authorized lab environments, or publicly available training datasets. They are not affiliated with any employer and do not contain employer systems, data, procedures, confidential information, or other non-public information.**
+
+
+**This GitHub will continue growing as I experiment, document, and learn.**
 
 ---
 
@@ -122,8 +120,6 @@ I'm continuing to build toward:
 
 Thank you for spending some time exploring my work.
 
-I'm always happy to connect with people working in cybersecurity, SOC operations, blue team, detection engineering, incident response, and Purple Team disciplines.
-
 **[LinkedIn](https://www.linkedin.com/in/rebeca-h-468bb1412/)** &nbsp;•&nbsp; **[VioletOps](https://github.com/BexPy/VioletOps)** &nbsp;•&nbsp; **[Email](mailto:beca07beca@icloud.com)**
 
-### Thank you for stopping by — I'd love to connect! ☕
+### Thank you for stopping by ☕
